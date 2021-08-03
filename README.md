@@ -2,7 +2,7 @@
 <h2 style="color:red;">This project is not betting advice.</h2>
 <p></p>
 <div>
-    This project includes a series of small projects related to algorithmic trading.
+    This project includes a series of small projects related to algorithmic betting.
     I have started project to practice data analysis and machine learning.
     <br/>
     <h2>List of Small Projects</h2>
